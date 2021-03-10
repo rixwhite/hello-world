@@ -13,8 +13,9 @@
   * Press the key bind you want to use (ex., CTRL+F7)
   * Add a Description (ex., "Turn off monitor")
   * Set the "Command" radio button
-  * In the "Command" box, enter:  
-    `qterminal -e python3 monitor_off.py`
+  * In the "Command" box, enter one of the following (based on the terminal emulator you want to use)
+    * **qterminal:**`qterminal -e python3 monitor_off.py`
+    * **xfce terminal:** `xfce4-terminal -e "python3 monitor_off.py"`
   * Click "OK"
   * Close the Shortcut Keys dialoge window
 
