@@ -20,3 +20,5 @@
   * Close the Shortcut Keys dialoge window
 
 Now, when you hit the keybind, the system will exexute the python script from a terminal. The script will listen for a KeyboardInterrupt, so use CTRL+C to turn your monitor back on.
+
+Note: You need the python to run from a terminal in order for it to capture the KeyboardInterrupt. The terminal will launch, then after 1 second, the monitor will turn off.
