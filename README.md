@@ -1,4 +1,4 @@
-# hello-world
-hello-world-repository
+# Tips and Tricks
 
-I'm a long-time sql analyst diving into new coding realms with python. So far, I'm really digging this new-to-me language.
+## Linux
+### Turn off screen with a python script and a keybind
